@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+}
+table,td{
+    border: 2px solid chocolate;
+}
+.short{
+    width: 400px;
+    height: 350px;
+    position: relative;
+    left: 250px;
+}
+table{
+    width: 270px;
+}
+.left{
+    position: relative;
+    left: 50px;
+}
+.w-50{
+    position: relative;
+    left: 250px;
+}
+#unique{
+    width: 50%;
+}
+footer{
+    text-align: center;
+}
+video{
+    width: 50%;
+}
